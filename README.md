@@ -3,6 +3,9 @@
 Tutorial video
 https://www.youtube.com/watch?v=x8xjj6cR9Nc
 
+Try also
+https://web.dev/media-recording-audio/
+
 Issues with pyaudio installation
 
 #On windows try

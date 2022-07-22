@@ -1,0 +1,8 @@
+tasks:
+  - init: |
+      python -m venv venv
+      source venv/bin/activate
+      
+  - command: |
+      source venv/bin/activate
+  

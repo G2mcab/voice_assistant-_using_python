@@ -1,5 +1,8 @@
 # voice_assistant-_using_python
 
+Tutorial video
+https://www.youtube.com/watch?v=x8xjj6cR9Nc
+
 Issues with pyaudio installation
 
 #On windows try

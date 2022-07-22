@@ -1,8 +1,10 @@
 tasks:
   - init: |
+      sudo apt install portaudio19-dev -y
       python -m venv venv
       source venv/bin/activate
-      
+      pip install speechrecognition
+      pip install pyaudio
   - command: |
       source venv/bin/activate
   
